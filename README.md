@@ -1,4 +1,4 @@
-##### Hello, I'm Miguel from Portugal 👋
+#### Hello, I'm Miguel from Portugal 👋
 
 - 📝 Feel free to check some of my projects on https://miguelemos.github.io
 - 💙 Loving Ethereum, blockchain technology, mechanism design and web3 applications 
