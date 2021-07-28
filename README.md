@@ -1,6 +1,6 @@
 #### Hello, I'm Miguel from Portugal 👋
 
-- 📝 Feel free to check some of my projects on https://miguelemos.github.io
+- 📝 Feel free to check some of my projects at https://miguelemos.github.io
 - 💙 Loving Ethereum, blockchain, [cryptoeconomics](https://miguelemos.co), mechanism design and web3 applications 
 - 🌱 Currently learning smart contract development (Solidity) and [security / best practices](https://consensys.github.io/smart-contract-best-practices) 
 - 😄 Personal interests include: [analog photography](https://www.some-places-some-spaces.com), [composing music](https://doorsopendoors.bandcamp.com), playing tennis & meditation
